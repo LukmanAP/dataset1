@@ -10,3 +10,5 @@ penjelasan mengenai Variabel pada dataset ini :
 - jumlah: Jumlah Penduduk
 
 berisikan 379 baris data
+
+Link database : https://www.kaggle.com/datasets/winastwangora/proyeksi-jumlah-penduduk-indonesia-jenis-kelamin
